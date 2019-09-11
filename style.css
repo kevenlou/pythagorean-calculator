@@ -1,0 +1,51 @@
+html{
+    background-color: maroon;
+}
+
+body{
+    font-family: 'Open Sans';
+    width: 600px;
+    padding: 20px 75px;
+    background-color: white;
+    margin: auto;
+    letter-spacing: 0.3px;
+    border-radius: 5px;
+}
+
+h1{
+    color: #808000;
+    font-family: 'Maven Pro';
+}
+
+h2, h3{
+    color: maroon;
+    font-family: 'Maven Pro';
+}
+
+.Calculator_Box{
+    background-color: rgb(235, 235, 235);
+    border: 2px solid grey;
+    padding: 10px 50px;
+}
+
+.Calculator{
+    border: 1px solid black;
+    font-variant: small-caps;
+
+}
+
+button{
+    font-variant: small-caps;
+    background-color: #808000;
+    font-size: 18px;
+    color: white;
+    padding: 5px 15px;
+}
+
+.questions{
+    color: maroon;
+}
+
+img:hover{
+    border: 2px solid rgb(0, 0, 0);
+}
